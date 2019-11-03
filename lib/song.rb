@@ -50,5 +50,7 @@ class Song
       
       #return the new hash with the new organized info
     genre_hash
-  end  
+  end 
+  
+  
 end
